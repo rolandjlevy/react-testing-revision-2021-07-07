@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event'
 
 // import axios from 'axios';
 import App from './App';
-import Button from './Button';
+import Button from './components/Button';
 
 describe('Should render components, test existence and data', () => {
   
